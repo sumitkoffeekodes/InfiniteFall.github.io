@@ -1,6 +1,6 @@
 {
-    "name": "jump_user_game",
-    "short_name": "jump_user_game",
+    "name": "InfiniteFall",
+    "short_name": "InfiniteFall",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
